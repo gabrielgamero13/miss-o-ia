@@ -1,74 +1,74 @@
 [
   {
     "nivel": "Fácil",
-    "enunciado": "O que significa a sigla IA?",
+    "enunciado": "Qual meu nome?",
     "alternativas": [
-      "Internet Avançada",
-      "Inteligência Artificial",
-      "Informação Automática",
-      "Interface Adaptável"
+      "Henrique",
+      "Pedro",
+      "Gabriel Rodrigues Gamero",
+      "Gustavo"
     ],
-    "correta": 1,
-    "explicacao": "IA significa Inteligência Artificial."
+    "correta": 2,
+    "explicacao": "Meu nome é Gabriel Rodrigues Gamero"
   },
   {
     "nivel": "Fácil",
-    "enunciado": "Qual exemplo utiliza inteligência artificial?",
+    "enunciado": "Quantos anos eu tenho?",
     "alternativas": [
-      "Um assistente virtual que reconhece voz",
-      "Uma régua de plástico",
-      "Um caderno sem componentes eletrônicos",
-      "Uma lâmpada comum sem sensores"
+      "17",
+      "1",
+      "7",
+      "67"
     ],
     "correta": 0,
-    "explicacao": "O reconhecimento de voz é uma aplicação de IA."
+    "explicacao": "nasci em 2009."
   },
   {
     "nivel": "Médio",
-    "enunciado": "Por que os dados são importantes para muitos sistemas de IA?",
+    "enunciado": "Quantos cachorros eu tenho?",
     "alternativas": [
-      "Porque substituem totalmente os programas",
-      "Porque ajudam o sistema a identificar padrões",
-      "Porque eliminam a necessidade de computadores",
-      "Porque impedem qualquer erro"
+      "1",
+      "2",
+      "3",
+      "5"
+    ],
+    "correta": 3,
+    "explicacao": "Tenho 5."
+  },
+  {
+    "nivel": "Médio",
+    "enunciado": "Qual dos meus cachorros é fêmea?",
+    "alternativas": [
+      "Totó",
+      "Pricesa",
+      "Mickey",
+      "Toquinho"
     ],
     "correta": 1,
-    "explicacao": "Muitos modelos aprendem padrões a partir de dados."
-  },
-  {
-    "nivel": "Médio",
-    "enunciado": "Qual atitude é mais adequada ao usar uma resposta gerada por IA?",
-    "alternativas": [
-      "Publicar imediatamente sem ler",
-      "Considerar toda resposta sempre verdadeira",
-      "Verificar as informações em fontes confiáveis",
-      "Ocultar que a IA foi utilizada em qualquer situação"
-    ],
-    "correta": 2,
-    "explicacao": "Respostas de IA podem conter erros e devem ser verificadas."
+    "explicacao": "Ela é fêmea."
   },
   {
     "nivel": "Difícil",
-    "enunciado": "O que é viés em um sistema de inteligência artificial?",
+    "enunciado": "Aonde eu trabalho?",
     "alternativas": [
-      "Uma tendência que pode produzir resultados injustos ou distorcidos",
-      "Um recurso usado apenas para aumentar a velocidade da internet",
-      "Uma proteção física instalada no computador",
-      "Um tipo de arquivo de imagem"
+      "Ouro Verde",
+      "Terminal Central",
+      "Terminal Oeste",
+      "Terminal do Gavetti"
     ],
-    "correta": 0,
-    "explicacao": "O viés pode surgir nos dados, no desenvolvimento ou no uso do sistema."
+    "correta": 3,
+    "explicacao": "Vou lá todo dia."
   },
   {
     "nivel": "Difícil",
-    "enunciado": "Qual princípio contribui para o uso responsável da IA?",
+    "enunciado": "Qual minha série preferida?",
     "alternativas": [
-      "Coletar qualquer dado sem autorização",
-      "Ignorar impactos sobre as pessoas",
-      "Usar transparência, privacidade e supervisão humana",
-      "Permitir que a máquina tome todas as decisões sem revisão"
+      "Dark",
+      "Elite",
+      "Game Of Thrones",
+      "Breaking Bad"
     ],
     "correta": 2,
-    "explicacao": "O uso responsável envolve transparência, proteção de dados e supervisão humana."
+    "explicacao": "Gosto muito dessa."
   }
 ]
